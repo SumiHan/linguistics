@@ -10,7 +10,7 @@ Course Weekly Schedule
 |  |Topics| Language & Linguistics|
 |  |Teaching-learning methods and Materials|lecture, discussion, survey|
 |  |Assignments & Evaluation|Reading 1: What is Language? Pre-survey|
-|02-03|Learning Objectives#n Topics|Generative AI & Linguistics|
+|02-03|Learning Objectives<br/> Topics|Generative AI & Linguistics|
 |  |Topics| Language & Linguistics|
 |  |Teaching-learning methods and Materials|lecture, discussion, survey|
 |  |Assignments & Evaluation|Reading 1: What is Language? Pre-survey|
