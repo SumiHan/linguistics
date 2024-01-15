@@ -1,2 +1,3 @@
-# Github Page for Introduction to English Linguistics (Hallym University)
-Introduction to English Linguistics
+# Introduction to English Linguistics (Hallym University)
+- Spring 2024, English Language & Literature at Hallym University
+  
